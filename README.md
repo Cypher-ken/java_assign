@@ -1,6 +1,6 @@
 # Java Mini Projects
 
-## Problem 1: Bicycle Rental Calculator
+## Problem 1: Bicycle Rental Calculatr
 A console application that calculates the total rental fee for a bicycle business based on hourly rates in Rwandan Francs (RWF). 
 * **Input:** Two integers representing the start hour (0-23) and end hour (1-24).
 * **Rate Structure:** 
