@@ -4,9 +4,9 @@
 A console application that calculates the total rental fee for a bicycle business based on hourly rates in Rwandan Francs (RWF). 
 * **Input:** Two integers representing the start hour (0-23) and end hour (1-24).
 * **Rate Structure:** 
-  * 00:00 - 07:00 & 21:00 - 24:00 \(\rightarrow\) 500 RWF/hour
-  * 07:00 - 14:00 & 19:00 - 21:00 \(\rightarrow\) 1000 RWF/hour
-  * 14:00 - 19:00 \(\rightarrow\) 1500 RWF/hour
+  * 00:00 - 07:00 & 21:00 - 24:00 -> 500 RWF/hour
+  * 07:00 - 14:00 & 19:00 - 21:00 -> 1000 RWF/hour
+  * 14:00 - 19:00 -> 1500 RWF/hour
 
 ## 🍄 Problem 2: Mushroom Identifier
 An interactive decision-tree program that identifies a specific mushroom type from a predefined list by asking the user at most three yes/no questions.
